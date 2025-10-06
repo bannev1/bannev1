@@ -2,7 +2,7 @@
 
 ***
 
-<div align="center">
+<div align="center" style="margin-bottom: 15px">
 	<a href="https://github.com/bannev1" target="_blank">
 		<picture>
 			<source media="(prefers-color-scheme: dark)" srcset="https://gist.githubusercontent.com/bannev1/e9dbf832735144ef8ac503e4efc9424f/raw/7f98e96a0ec4719711cf2e2a9763db4e220c2adb/githubLogoWhite.svg">
