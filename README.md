@@ -39,6 +39,8 @@
 | --- | --- |
 
 <a href="https://valentinabanner.com" align="right" target="_blank">
-	<img src="https://gist.githubusercontent.com/bannev1/c49158b1b711a851bbed00077f443efc/raw/a14704976ce7b0dfe21f6b96595f2a7072d434e9/linkWhite.svg#gh-dark-mode-only" width="25" align="right">
-	<img src="https://gist.githubusercontent.com/bannev1/bc0f2132ccbe757d3ab1c0d7f418fedc/raw/5807bfe11fa8d43af5c99641f4ff015448333b3b/linkBlack.svg#gh-light-mode-only" width="25" align="right">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://gist.githubusercontent.com/bannev1/c49158b1b711a851bbed00077f443efc/raw/a14704976ce7b0dfe21f6b96595f2a7072d434e9/linkWhite.svg">
+		<img width="25" align="right" alt="Personal Website" src="https://gist.githubusercontent.com/bannev1/bc0f2132ccbe757d3ab1c0d7f418fedc/raw/5807bfe11fa8d43af5c99641f4ff015448333b3b/linkBlack.svg">
+	</picture>
 </a>
