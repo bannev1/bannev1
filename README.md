@@ -2,7 +2,7 @@
 
 ***
 
-<div style="display: flex; flex-direction: row; gap: 10px; justify-content: center; margin: 10px 0;">
+<div style="display: flex; flex-direction: row; gap: 2px; justify-content: center; margin: 10px 0;">
 	<a tabindex="0" href="https://github.com/bannev1" target="_blank">
 		<img height="24" width="24" src="https://gist.githubusercontent.com/bannev1/e9dbf832735144ef8ac503e4efc9424f/raw/7f98e96a0ec4719711cf2e2a9763db4e220c2adb/githubLogoWhite.svg#gh-dark-mode-only"/>
 		<img height="24" width="24" src="https://gist.githubusercontent.com/bannev1/f36f32fe3562990b6eee8f06e3de8e9f/raw/b21bf01ce2062ddc02c3a1173ff8a76a75de48db/githubLogoBlack.svg#gh-light-mode-only"/>
