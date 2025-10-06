@@ -4,24 +4,34 @@
 
 <div align="center">
 	<a href="https://github.com/bannev1" target="_blank">
-		<img height="24" width="24" src="https://gist.githubusercontent.com/bannev1/e9dbf832735144ef8ac503e4efc9424f/raw/7f98e96a0ec4719711cf2e2a9763db4e220c2adb/githubLogoWhite.svg#gh-dark-mode-only"/>
-		<img height="24" width="24" src="https://gist.githubusercontent.com/bannev1/f36f32fe3562990b6eee8f06e3de8e9f/raw/b21bf01ce2062ddc02c3a1173ff8a76a75de48db/githubLogoBlack.svg#gh-light-mode-only"/>
+		<picture>
+			<source media="(prefers-color-scheme: dark)" srcset="https://gist.githubusercontent.com/bannev1/e9dbf832735144ef8ac503e4efc9424f/raw/7f98e96a0ec4719711cf2e2a9763db4e220c2adb/githubLogoWhite.svg">
+			<img height="24" width="24" alt="GitHub" src="https://gist.githubusercontent.com/bannev1/f36f32fe3562990b6eee8f06e3de8e9f/raw/b21bf01ce2062ddc02c3a1173ff8a76a75de48db/githubLogoBlack.svg">
+		</picture>
 	</a>
 	<a href="https://stackoverflow.com/users/15690172/realhuman" target="_blank">
-		<img height="24" width="24" src="https://gist.githubusercontent.com/bannev1/ecbe52fd41da94a3a985788ffabf826d/raw/ba93e006e86a244908b26553166e73976680cdfd/stackoverflowLogoWhite.svg#gh-dark-mode-only"/>
-		<img height="24" width="24" src="https://gist.githubusercontent.com/bannev1/f653c4a2349bbebbc2f51d6fc57a87ef/raw/dac6180914fb91259cc712a6d75dfdf2dcd9f0e8/stackoverflowLogoBlack.svg#gh-light-mode-only"/>
+		<picture>
+			<source media="(prefers-color-scheme: dark)" srcset="https://gist.githubusercontent.com/bannev1/ecbe52fd41da94a3a985788ffabf826d/raw/ba93e006e86a244908b26553166e73976680cdfd/stackoverflowLogoWhite.svg">
+			<img height="24" width="24" alt="Stack Overflow" src="https://gist.githubusercontent.com/bannev1/f653c4a2349bbebbc2f51d6fc57a87ef/raw/dac6180914fb91259cc712a6d75dfdf2dcd9f0e8/stackoverflowLogoBlack.svg">
+		</picture>
 	</a>
 	<a href="https://www.thingiverse.com/realhuman0/designs" target="_blank">
-		<img height="24" width="24" src="https://gist.githubusercontent.com/bannev1/28608457a98b6e7a29153b6b7646f191/raw/b12fca68f65a5d44b11db1bacf6b42e45066edee/thingiverseLogoWhite.svg#gh-dark-mode-only"/>
-		<img height="24" width="24" src="https://gist.githubusercontent.com/bannev1/950a4927f468353ab894b620e7c98e02/raw/156b5c0a68fee05e0371a9cc248967917be61064/thingiverseLogoBlack.svg#gh-light-mode-only"/>
+		<picture>
+			<source media="(prefers-color-scheme: dark)" srcset="https://gist.githubusercontent.com/bannev1/28608457a98b6e7a29153b6b7646f191/raw/b12fca68f65a5d44b11db1bacf6b42e45066edee/thingiverseLogoWhite.svg">
+			<img height="24" width="24" alt="Thingiverse" src="https://gist.githubusercontent.com/bannev1/950a4927f468353ab894b620e7c98e02/raw/156b5c0a68fee05e0371a9cc248967917be61064/thingiverseLogoBlack.svg">
+		</picture>
 	</a>
 	<a href="https://letterboxd.com/beansapien/" target="_blank">
-		<img height="24" width="24" src="https://gist.githubusercontent.com/bannev1/e192fe703a594d9a8c78547348c3e1f7/raw/0aea7e9baaaeb6f8747ee1f65b8fd9fc781dce64/letterboxdLogoWhite.svg#gh-dark-mode-only"/>
-		<img height="24" width="24" src="https://gist.githubusercontent.com/bannev1/c2059d231f9409552022639e90b83d74/raw/fa7f8d9b68714f6eac3b5649942938395e2ba08c/letterboxdLogoBlack.svg#gh-light-mode-only"/>
+		<picture>
+			<source media="(prefers-color-scheme: dark)" srcset="https://gist.githubusercontent.com/bannev1/e192fe703a594d9a8c78547348c3e1f7/raw/0aea7e9baaaeb6f8747ee1f65b8fd9fc781dce64/letterboxdLogoWhite.svg">
+			<img height="24" width="24" alt="Letterboxd" src="https://gist.githubusercontent.com/bannev1/c2059d231f9409552022639e90b83d74/raw/fa7f8d9b68714f6eac3b5649942938395e2ba08c/letterboxdLogoBlack.svg">
+		</picture>
 	</a>
 	<a href="mailto:valentinavbanner@gmail.com" target="_blank">
-		<img height="24" width="24" src="https://gist.githubusercontent.com/bannev1/14382b353a28d6e8c3600b81ca486483/raw/6da74acc250127b7dd01b8edfd6f25d847ad9730/emailLogoWhite.svg#gh-dark-mode-only"/>
-		<img height="24" width="24" src="https://gist.githubusercontent.com/bannev1/dc99719fe91331cdaae4e98678d05d55/raw/db9f1e23edd028fc65510eea2bda5021d34da640/emailLogoBlack.svg#gh-light-mode-only"/>
+		<picture>
+			<source media="(prefers-color-scheme: dark)" srcset="https://gist.githubusercontent.com/bannev1/14382b353a28d6e8c3600b81ca486483/raw/6da74acc250127b7dd01b8edfd6f25d847ad9730/emailLogoWhite.svg">
+			<img height="24" width="24" alt="Email" src="https://gist.githubusercontent.com/bannev1/dc99719fe91331cdaae4e98678d05d55/raw/db9f1e23edd028fc65510eea2bda5021d34da640/emailLogoBlack.svg">
+		</picture>
 	</a>
 </div>
 
