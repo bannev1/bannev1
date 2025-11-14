@@ -15,6 +15,12 @@
 			<img height="24" width="24" alt="Stack Overflow" src="https://gist.githubusercontent.com/bannev1/f653c4a2349bbebbc2f51d6fc57a87ef/raw/dac6180914fb91259cc712a6d75dfdf2dcd9f0e8/stackoverflowLogoBlack.svg">
 		</picture>
 	</a>
+	<a href="https://catalyzingcow.itch.io/" target="_blank">
+		<picture>
+			<source media="(prefers-color-scheme: dark)" srcset="https://gist.githubusercontent.com/bannev1/2706ece42669c7243d7b78129ee76a55/raw/e75cb2f252c1d50345c5cb893c98499e21eaf875/itchWhite.svg">
+			<img height="24" width="24" alt="Itch" src="https://gist.githubusercontent.com/bannev1/4db3628851be6afb48fec27ec3595d0c/raw/e19f77c9cb1e9e215ae96771e0e5df4002ca5451/itchBlack.svg">
+		</picture>
+	</a>
 	<a href="https://www.thingiverse.com/realhuman0/designs" target="_blank">
 		<picture>
 			<source media="(prefers-color-scheme: dark)" srcset="https://gist.githubusercontent.com/bannev1/28608457a98b6e7a29153b6b7646f191/raw/b12fca68f65a5d44b11db1bacf6b42e45066edee/thingiverseLogoWhite.svg">
