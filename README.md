@@ -33,6 +33,12 @@
 			<img height="24" width="24" alt="Letterboxd" src="https://gist.githubusercontent.com/bannev1/c2059d231f9409552022639e90b83d74/raw/fa7f8d9b68714f6eac3b5649942938395e2ba08c/letterboxdLogoBlack.svg">
 		</picture>
 	</a>
+	<a href="https://open.spotify.com/user/314kjfqw2fpqryhp3a725zfuorie?si=3bdbf14685d443cc" target="_blank">
+		<picture>
+			<source media="(prefers-color-scheme: dark)" srcset="https://gist.githubusercontent.com/bannev1/bff23fca7ec91f890b10ceb215e87b65/raw/24264a648bdbbaa7216a894ead39d063b643b73a/spotifyWhite.svg">
+			<img height="24" width="24" alt="Spotify" src="https://gist.githubusercontent.com/bannev1/9e4908a6989dfca2817688b36960c28d/raw/90a944e879b8b33a92bef766b2e7ef3a92d2f2d6/spotifyBlack.svg">
+		</picture>
+	</a>
 	<a href="mailto:valentinavbanner@gmail.com" target="_blank">
 		<picture>
 			<source media="(prefers-color-scheme: dark)" srcset="https://gist.githubusercontent.com/bannev1/14382b353a28d6e8c3600b81ca486483/raw/6da74acc250127b7dd01b8edfd6f25d847ad9730/emailLogoWhite.svg">
