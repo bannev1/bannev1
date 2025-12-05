@@ -1,6 +1,5 @@
-<h1 align="center">hi</h1>
-
-***
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bannev1&show_icons=true&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics%3A) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bannev1&layout=compact&theme=github_dark&langs_count=6&hide_border=true&custom_title=Most%20Used%20Languages%3A) | 
+| --- | --- |
 
 <div align="center" style="margin-bottom: 15px">
 	<a href="https://github.com/bannev1" target="_blank">
@@ -47,12 +46,5 @@
 	</a>
 </div>
 
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bannev1&show_icons=true&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics%3A) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bannev1&layout=compact&theme=github_dark&langs_count=6&hide_border=true&custom_title=Most%20Used%20Languages%3A) | 
-| --- | --- |
 
-<a href="https://valentinabanner.com" align="right" target="_blank">
-	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://gist.githubusercontent.com/bannev1/c49158b1b711a851bbed00077f443efc/raw/a14704976ce7b0dfe21f6b96595f2a7072d434e9/linkWhite.svg">
-		<img width="25" align="right" alt="Personal Website" src="https://gist.githubusercontent.com/bannev1/bc0f2132ccbe757d3ab1c0d7f418fedc/raw/5807bfe11fa8d43af5c99641f4ff015448333b3b/linkBlack.svg">
-	</picture>
-</a>
+check out [my website](https://valentinabanner.com)
