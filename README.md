@@ -47,4 +47,4 @@
 </div>
 
 
-check out [my website](https://valentinabanner.com)
+check out [my website](https://valentinabanner.com) :)
