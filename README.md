@@ -38,7 +38,7 @@
 			<img height="24" width="24" alt="Spotify" src="https://gist.githubusercontent.com/bannev1/9e4908a6989dfca2817688b36960c28d/raw/90a944e879b8b33a92bef766b2e7ef3a92d2f2d6/spotifyBlack.svg">
 		</picture>
 	</a>
-	<a href="mailto:valentinavbanner@gmail.com" target="_blank">
+	<a href="mailto:hello@valentinabanner.com" target="_blank">
 		<picture>
 			<source media="(prefers-color-scheme: dark)" srcset="https://gist.githubusercontent.com/bannev1/14382b353a28d6e8c3600b81ca486483/raw/6da74acc250127b7dd01b8edfd6f25d847ad9730/emailLogoWhite.svg">
 			<img height="24" width="24" alt="Email" src="https://gist.githubusercontent.com/bannev1/dc99719fe91331cdaae4e98678d05d55/raw/db9f1e23edd028fc65510eea2bda5021d34da640/emailLogoBlack.svg">
