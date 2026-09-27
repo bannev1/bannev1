@@ -1,4 +1,4 @@
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bannev1&show_icons=true&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics%3A) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bannev1&layout=compact&theme=github_dark&langs_count=6&hide_border=true&custom_title=Most%20Used%20Languages%3A) | 
+| ![GitHub stats](https://github-stats-extended.vercel.app/api?username=bannev1&show_icons=true&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics%3A) | ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=bannev1&layout=compact&theme=github_dark&langs_count=6&hide_border=true&custom_title=Most%20Used%20Languages%3A) | 
 | --- | --- |
 
 <div align="center" style="margin-bottom: 15px">
